@@ -6,7 +6,7 @@ This dataset is a german SQuAD Version 1.1 Train Set based on the translation of
 The translation was carried out with the [Marian MT](https://huggingface.co/Helsinki-NLP/opus-mt-en-de "Huggingface Model Explorer")
  model from [Huggingface Transformers](https://huggingface.co/transformers/ "Huggingface Transformer").
 
-The german dataset can be found [here](../Translated_German_SQuAD-Train-v1.1.json).
+The german dataset can be found [here](./Translated_German_SQuAD-Train-v1.1.json).
 
 ## Links to the original SQuAD Dataset
 [SQuAD Explorer](https://rajpurkar.github.io/SQuAD-explorer/ "SQuAD Explorer")
