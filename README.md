@@ -1,7 +1,7 @@
 # German SQuAD
 ## Translated Version of the Original SQuAD Train Version 1.1 in German
 
-This dataset is a german SQuAD Version 1.1 Train Set based on the translation of the original SQuAD Version 1.1 dataset. It can be  [here](./Translated_German_SQuAD-Train-v1.1.json).
+This dataset is a German SQuAD Version 1.1 Train dataset based on the translation of the original SQuAD Version 1.1 dataset. It can be found [here](./Translated_German_SQuAD-Train-v1.1.json).
 
 The translation was carried out with the [Marian MT](https://huggingface.co/Helsinki-NLP/opus-mt-en-de "Huggingface Model Explorer")
  model from [Huggingface Transformers](https://huggingface.co/transformers/ "Huggingface Transformer").
